@@ -1,7 +1,7 @@
 # Financial Literacy/Credit Card Debt (Data Management)
 
 ## Contributors 
-Jun Kim
+Jun Kim, 
 Wenqi Shan
 ## Motivation
 The COVID-19 pandemic has had a profound and long-lasting impact on the global economy; therefore, household credit card debt is also influenced. This project aims to investigate how financial literacy and household credit card debt have changed after COVID-19. Our team will be using two large-scale datasets from the years 2020 and 2024 Federal Reserve’s Survey of Household Economics and Decisionmaking (SHED).
