@@ -1,4 +1,4 @@
-# Financial Literacy/Credit Card Debt (Data Management)
+# Financial Literacy & Credit Card Debt (Data Management)
 
 ## Contributors 
 Jun Kim, 
