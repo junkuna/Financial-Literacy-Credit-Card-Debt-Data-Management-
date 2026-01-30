@@ -181,6 +181,9 @@ Incorporating qualitative and mixed methods approaches would add more rigor to o
 
 Therefore, we would love to expand our data source to add more features and years, analytical methods, and granularity of financial literacy measures would be able to allow us for a deeper understanding of how households navigate credit markets in periods of economic disruption. 
 
+## Full Access
+Box link: https://app.box.com/s/icyir7uc4u4s1legg3z7w8gjpend6lh4 
+
 ## References 
 2020 Public-Use Microdata. Retrieved from:
 https://www.federalreserve.gov/consumerscommunities/shed_data.htm
